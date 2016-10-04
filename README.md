@@ -20,6 +20,10 @@ The base for a site collecting all the things I want to do and learn
   * Short description
   * Shareable
   * Planned date of completion
+  * Room for notes
+  * Room for reflection
+  * Do it again-button
+  * Why do I want to... field for reflection
 * One-click add of new item
 * Bucket types
   * Take a Trip
