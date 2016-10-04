@@ -10,6 +10,8 @@ The base for a site collecting all the things I want to do and learn
 * List of things in bucket
 * List of bucket items per bucket
 * Bucket item
+  * Cover Photo
+    * Automatically get image from Unsplash from tag
   * Picture gallery
   * Mark done/not done
     * When was it done?
@@ -24,6 +26,7 @@ The base for a site collecting all the things I want to do and learn
   * Room for reflection
   * Do it again-button
   * Why do I want to... field for reflection
+* Link items and buckets together to create itineraries and trips
 * One-click add of new item
 * Bucket types
   * Take a Trip
@@ -34,5 +37,5 @@ The base for a site collecting all the things I want to do and learn
   * Learning new things
 
 ## WBS
-### Bucket
+### Bucket Container
 ### Bucket Item
