@@ -21,3 +21,10 @@ The base for a site collecting all the things I want to do and learn
   * Shareable
   * Planned date of completion
 * One-click add of new item
+* Bucket types
+  * Take a Trip
+  * Go on an Adventure
+  * Have an Experience
+  * Do something Social
+  * Work-related
+  * Learning new things
