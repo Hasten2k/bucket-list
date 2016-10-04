@@ -32,3 +32,7 @@ The base for a site collecting all the things I want to do and learn
   * Do something Social
   * Work-related
   * Learning new things
+
+## WBS
+### Bucket
+### Bucket Item
